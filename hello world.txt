@@ -3,13 +3,4 @@ d
 
 dd
 
-d6868686868686
-a6868688686868dded line
-bla bla bla
-add1111111111111111111ede  line
-czxcczx
-fsdfsdfdsffsd
-more bla bla
-
-Hi shahar's here  - making changes on the my local in hope to
-push them to my friend remote.
+d6868686868686868688686868dded linehahar's here  - making changes on the my local in hopmy friend remote.
