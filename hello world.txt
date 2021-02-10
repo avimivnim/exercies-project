@@ -1,5 +1,9 @@
-hello world 
+h2e2l4lo w1o2r3l4d 
 
 added new line
 
 addede another line
+
+
+Hi shahar's here  - making changes on the my local in hope to
+push them to my friend remote.
